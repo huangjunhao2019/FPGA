@@ -1,0 +1,59 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.4/examples
+T_opt
+!s110 1666328959
+V=K3I7GUgKV1]`6f^ZkZ2]3
+04 8 4 work FP2_TEST fast 0
+=1-309c23e88472-6352297d-8e-2308
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vFP2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 G6K?jgPJn2IK`QhSn8h9>0
+I>oZ1m62nIbgWHFTGIFYV]3
+Z2 dD:/FPGA/modelsim
+w1666329211
+8D:/FPGA/modelsim/FP2.v
+FD:/FPGA/modelsim/FP2.v
+L0 1
+Z3 OL;L;10.4;61
+!s108 1666329253.709000
+!s107 D:/FPGA/modelsim/FP2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FPGA/modelsim/FP2.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@f@p2
+vFP2_TEST
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 NM6=6VH1nN<JoDG^WNi593
+IU?3P3nUo47_6L]CBf@[9`3
+R2
+w1666327754
+8D:/FPGA/modelsim/FP2_TEST.v
+FD:/FPGA/modelsim/FP2_TEST.v
+L0 3
+R3
+!s108 1666329253.787000
+!s107 D:/FPGA/modelsim/FP2_TEST.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FPGA/modelsim/FP2_TEST.v|
+!i113 0
+R4
+n@f@p2_@t@e@s@t
