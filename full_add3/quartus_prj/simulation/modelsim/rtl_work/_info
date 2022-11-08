@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA/full_add3/quartus_prj/simulation/modelsim
+T_opt
+!s110 1667785807
+V@X20ZVEBNVj04YSMH7n0L2
+04 11 4 work tb_full_add fast 0
+=1-309c23e88472-6368644f-f4-27c0
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vfull_add
+Z1 !s110 1667785806
+!i10b 1
+!s100 3eWfl?5RJQ?=JPj3WF?G33
+Ikcn==EE@D[ImMOiHn00GY3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1667785696
+8D:/FPGA/full_add3/rtl/full_add.v
+FD:/FPGA/full_add3/rtl/full_add.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1667785806.681000
+!s107 D:/FPGA/full_add3/rtl/full_add.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/full_add3/rtl|D:/FPGA/full_add3/rtl/full_add.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+D:/FPGA/full_add3/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_full_add
+R1
+!i10b 1
+!s100 lR:7QhjnhEd4RR`?45>5[3
+I;HXiz1VXk;K[V0De>H78?2
+R2
+R0
+w1667785518
+8D:/FPGA/full_add3/quartus_prj/../sim/tb_full_add.v
+FD:/FPGA/full_add3/quartus_prj/../sim/tb_full_add.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1667785806.869000
+!s107 D:/FPGA/full_add3/quartus_prj/../sim/tb_full_add.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/full_add3/quartus_prj/../sim|D:/FPGA/full_add3/quartus_prj/../sim/tb_full_add.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/FPGA/full_add3/quartus_prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

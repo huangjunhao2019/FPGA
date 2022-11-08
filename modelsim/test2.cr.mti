@@ -1,0 +1,8 @@
+D:/FPGA/modelsim/test2.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test2.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test2
+
+Top level modules:
+	test2
+
+} {} {}}

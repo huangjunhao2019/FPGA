@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, D:/FPGA/latch/rtl/if_else.v
+source_file = 1, D:/FPGA/latch/quartus_prj/db/latch_one.cbx.xml
+design_name = latch_one
+instance = comp, \out[0]~output , out[0]~output, latch_one, 1
+instance = comp, \out[1]~output , out[1]~output, latch_one, 1
+instance = comp, \out[2]~output , out[2]~output, latch_one, 1
+instance = comp, \out[3]~output , out[3]~output, latch_one, 1
+instance = comp, \in2~input , in2~input, latch_one, 1
+instance = comp, \in1~input , in1~input, latch_one, 1
+instance = comp, \out[3]~0 , out[3]~0, latch_one, 1
+instance = comp, \out[3]~1 , out[3]~1, latch_one, 1
+instance = comp, \out[3]~2 , out[3]~2, latch_one, 1
+instance = comp, \out[3]~3 , out[3]~3, latch_one, 1

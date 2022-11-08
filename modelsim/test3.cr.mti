@@ -1,0 +1,8 @@
+D:/FPGA/modelsim/hello.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\hello.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Hello_World
+
+Top level modules:
+	Hello_World
+
+} {} {}}

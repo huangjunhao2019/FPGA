@@ -1,0 +1,7 @@
+|mux2_1
+key1 => led_out.DATAB
+key2 => led_out.DATAA
+key3 => led_out.OUTPUTSELECT
+led_out <= led_out.DB_MAX_OUTPUT_PORT_TYPE
+
+

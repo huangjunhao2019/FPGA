@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA/block/quartus_prj/simulation/modelsim
+T_opt
+!s110 1667795252
+VjhiW[:=fJlj6=zJjJEWXB0
+04 8 4 work tb_block fast 0
+=1-309c23e88472-63688934-156-220c
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vblock
+Z1 !s110 1667795251
+!i10b 1
+!s100 Og5G34oz083<14ILUm0oi3
+I9S;LiDCVOg1OkJgdNC3KU0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1667793763
+8D:/FPGA/block/rtl/block.v
+FD:/FPGA/block/rtl/block.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1667795251.769000
+!s107 D:/FPGA/block/rtl/block.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/block/rtl|D:/FPGA/block/rtl/block.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+D:/FPGA/block/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_block
+R1
+!i10b 1
+!s100 PFVAOVhSAf7B5WOZ0f3S@3
+IS?8PIJo691jWKEIdGPKhR2
+R2
+R0
+w1667795234
+8D:/FPGA/block/quartus_prj/../sim/tb_block.v
+FD:/FPGA/block/quartus_prj/../sim/tb_block.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1667795251.957000
+!s107 D:/FPGA/block/quartus_prj/../sim/tb_block.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/block/quartus_prj/../sim|D:/FPGA/block/quartus_prj/../sim/tb_block.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/FPGA/block/quartus_prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

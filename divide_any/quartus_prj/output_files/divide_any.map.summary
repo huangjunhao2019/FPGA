@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov 07 17:54:39 2022
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : divide_any
+Top-level Entity Name : divide_any
+Family : Cyclone IV E
+Total logic elements : 10
+    Total combinational functions : 10
+    Dedicated logic registers : 7
+Total registers : 7
+Total pins : 3
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

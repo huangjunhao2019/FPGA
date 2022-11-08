@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, D:/FPGA/half_add2/sim/tb_half_add.v
+source_file = 1, D:/FPGA/half_add2/rtl/half_add.v
+source_file = 1, D:/FPGA/half_add2/quartus_prj/db/half_add.cbx.xml
+design_name = half_add
+instance = comp, \sum~output , sum~output, half_add, 1
+instance = comp, \cout~output , cout~output, half_add, 1
+instance = comp, \in1~input , in1~input, half_add, 1
+instance = comp, \in2~input , in2~input, half_add, 1
+instance = comp, \sum~0 , sum~0, half_add, 1
+instance = comp, \Decoder0~0 , Decoder0~0, half_add, 1

@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA/divide_any/quartus_prj/simulation/modelsim
+T_opt
+Z1 !s110 1667814907
+V3IKJm]mLhT=AeFCdYWkfl1
+04 13 4 work tb_divide_any fast 0
+=1-309c23e88472-6368d5fb-1f3-2a70
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vdivide_any
+!s110 1667814906
+!i10b 1
+!s100 <AYGKB]8VM1Kh=9iXJe>@1
+In8Ki>8=f8;IE=n1Mc[VM[0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1667814678
+8D:/FPGA/divide_any/rtl/divide_any.v
+FD:/FPGA/divide_any/rtl/divide_any.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1667814906.890000
+!s107 D:/FPGA/divide_any/rtl/divide_any.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/divide_any/rtl|D:/FPGA/divide_any/rtl/divide_any.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+D:/FPGA/divide_any/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_divide_any
+R1
+!i10b 1
+!s100 =<S]QQOMF<d:ejP^46SNY1
+Ihd=?9^3Wb0IaV5N5lX[Al0
+R2
+R0
+w1667814832
+8D:/FPGA/divide_any/quartus_prj/../sim/tb_divide_any.v
+FD:/FPGA/divide_any/quartus_prj/../sim/tb_divide_any.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1667814907.093000
+!s107 D:/FPGA/divide_any/quartus_prj/../sim/tb_divide_any.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/divide_any/quartus_prj/../sim|D:/FPGA/divide_any/quartus_prj/../sim/tb_divide_any.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+D:/FPGA/divide_any/quartus_prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

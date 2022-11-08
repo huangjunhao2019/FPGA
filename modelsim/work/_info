@@ -9,51 +9,272 @@ z2
 cModel Technology
 Z0 dC:/modeltech64_10.4/examples
 T_opt
-!s110 1666328959
-V=K3I7GUgKV1]`6f^ZkZ2]3
-04 8 4 work FP2_TEST fast 0
-=1-309c23e88472-6352297d-8e-2308
-o-quiet -auto_acc_if_foreign -work work
+!s110 1667716402
+V@L]VSIdaakn6_c_QKzaLi0
+Z1 04 11 4 work test_always fast 0
+=1-309c23e88472-63675532-293-27cc
+Z2 o-quiet -auto_acc_if_foreign -work work
 n@_opt
-OL;O;10.4;61
+Z3 OL;O;10.4;61
+R0
+T_opt1
+!s110 1667716685
+VY0amK?5bXf5n?;<KM`hFS0
+R1
+=1-309c23e88472-6367564d-94-2a80
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1667705195
+VNDhE^U@lbC8hLJZb;K]<`1
+04 9 4 work test_time fast 0
+=1-309c23e88472-6367296b-120-2860
+R2
+n@_opt2
+R3
 R0
 vFP2
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-r1
-!s85 0
-31
+Z4 !s110 1667702652
 !i10b 1
 !s100 G6K?jgPJn2IK`QhSn8h9>0
 I>oZ1m62nIbgWHFTGIFYV]3
-Z2 dD:/FPGA/modelsim
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/FPGA/modelsim
 w1666329211
 8D:/FPGA/modelsim/FP2.v
 FD:/FPGA/modelsim/FP2.v
 L0 1
-Z3 OL;L;10.4;61
-!s108 1666329253.709000
-!s107 D:/FPGA/modelsim/FP2.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FPGA/modelsim/FP2.v|
-!i113 0
-Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-n@f@p2
-vFP2_TEST
-R1
+Z7 OL;L;10.4;61
 r1
 !s85 0
 31
+!s108 1667702651.979000
+!s107 D:/FPGA/modelsim/FP2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FPGA/modelsim/FP2.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@f@p2
+vFP2_TEST
+R4
 !i10b 1
 !s100 NM6=6VH1nN<JoDG^WNi593
 IU?3P3nUo47_6L]CBf@[9`3
-R2
+R5
+R6
 w1666327754
 8D:/FPGA/modelsim/FP2_TEST.v
 FD:/FPGA/modelsim/FP2_TEST.v
 L0 3
-R3
-!s108 1666329253.787000
+R7
+r1
+!s85 0
+31
+!s108 1667702652.102000
 !s107 D:/FPGA/modelsim/FP2_TEST.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FPGA/modelsim/FP2_TEST.v|
 !i113 0
-R4
+R8
 n@f@p2_@t@e@s@t
+vHello_World
+!s110 1667703386
+!i10b 1
+!s100 ;l;67dcBDA4A0Qzz4AA0E2
+I33B6k5bCobMU3FfViNJlg0
+R5
+R6
+w1667703338
+8D:\FPGA\modelsim\hello.v
+FD:\FPGA\modelsim\hello.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1667703386.229000
+!s107 D:\FPGA\modelsim\hello.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\hello.v|
+!i113 0
+R8
+n@hello_@world
+vtb_test
+!s110 1667703650
+!i10b 1
+!s100 P>H2>dgTaUA^1G]8EhaFJ0
+I9mZ[Vn=f2Ok3Kc4HCbZo=3
+R5
+R6
+w1667703645
+8D:\FPGA\modelsim\display.v
+FD:\FPGA\modelsim\display.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1667703650.393000
+!s107 D:\FPGA\modelsim\display.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\display.v|
+!i113 0
+R8
+vtb_test2
+!s110 1667704222
+!i10b 1
+!s100 6Rh224cm60A:OYoWiNLA41
+IKmk1=dVj][o^;dL8jnoj[2
+R5
+R6
+w1667704213
+8D:\FPGA\modelsim\test_write.v
+FD:\FPGA\modelsim\test_write.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1667704222.272000
+!s107 D:\FPGA\modelsim\test_write.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test_write.v|
+!i113 0
+R8
+vtb_test4
+!s110 1667704506
+!i10b 1
+!s100 ^S_fSbm19jB9gnMD_<hnj3
+I8V3[Ug>YnBY5XoVXfQ^I52
+R5
+R6
+w1667704501
+8D:\FPGA\modelsim\test_strobe.v
+FD:\FPGA\modelsim\test_strobe.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1667704506.649000
+!s107 D:\FPGA\modelsim\test_strobe.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test_strobe.v|
+!i113 0
+R8
+vtest2
+!s110 1667702967
+!i10b 1
+!s100 ?MKB5U`AK[D<kRY?M:JCA0
+I86DEg=Tld8<c8R>O[7OK33
+R5
+R6
+w1667702894
+8D:\FPGA\modelsim\test2.v
+FD:\FPGA\modelsim\test2.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1667702967.624000
+!s107 D:\FPGA\modelsim\test2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test2.v|
+!i113 0
+R8
+vtest_always
+!s110 1667716663
+!i10b 1
+!s100 _2E^8X;Yj0L<4AaQ;R<m70
+IFHg9Q^R5n8?2l_9FP?5`63
+R5
+R6
+w1667716656
+8D:\FPGA\modelsim\test_always.v
+FD:\FPGA\modelsim\test_always.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1667716663.302000
+!s107 D:\FPGA\modelsim\test_always.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test_always.v|
+!i113 0
+R8
+vtest_Huang
+!s110 1667703915
+!i10b 1
+!s100 LF0:[HUKPJmjzbdfiLz?U1
+IIkRPc0SjSX?kCXW9z2i>H0
+R5
+R6
+w1667703910
+8D:\FPGA\modelsim\test_huang.v
+FD:\FPGA\modelsim\test_huang.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1667703915.177000
+!s107 D:\FPGA\modelsim\test_huang.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test_huang.v|
+!i113 0
+R8
+ntest_@huang
+vtest_monitor
+!s110 1667704717
+!i10b 1
+!s100 9dW1]Y8^==kC58Iid6]Oj3
+I83d3R==WKRNddUU2ANH;a1
+R5
+R6
+w1667704703
+8D:\FPGA\modelsim\test_monitor.v
+FD:\FPGA\modelsim\test_monitor.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1667704717.778000
+!s107 D:\FPGA\modelsim\test_monitor.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test_monitor.v|
+!i113 0
+R8
+vtest_stop
+!s110 1667704982
+!i10b 1
+!s100 Och13J7AY`iBnck4e7K^[0
+I<5mMVVb;oEPXa1Nh<d;dd0
+R5
+R6
+w1667704963
+8D:\FPGA\modelsim\test_stop.v
+FD:\FPGA\modelsim\test_stop.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1667704982.870000
+!s107 D:\FPGA\modelsim\test_stop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test_stop.v|
+!i113 0
+R8
+vtest_time
+!s110 1667705176
+!i10b 1
+!s100 BddhD@c85k]BM^<gBDgQ:1
+ILhLVP3ZIKYckcgeDjToK<1
+R5
+R6
+w1667705166
+8D:\FPGA\modelsim\test_time.v
+FD:\FPGA\modelsim\test_time.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1667705176.178000
+!s107 D:\FPGA\modelsim\test_time.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\FPGA\modelsim\test_time.v|
+!i113 0
+R8

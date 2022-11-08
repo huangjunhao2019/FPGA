@@ -1,0 +1,57 @@
+D:/FPGA/modelsim/test_stop.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test_stop.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test_stop
+
+Top level modules:
+	test_stop
+
+} {} {}} D:/FPGA/modelsim/test_time.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test_time.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test_time
+
+Top level modules:
+	test_time
+
+} {} {}} D:/FPGA/modelsim/display.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\display.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_test
+
+Top level modules:
+	tb_test
+
+} {} {}} D:/FPGA/modelsim/test_huang.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test_huang.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test_Huang
+
+Top level modules:
+	test_Huang
+
+} {} {}} D:/FPGA/modelsim/test_write.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test_write.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_test2
+
+Top level modules:
+	tb_test2
+
+} {} {}} D:/FPGA/modelsim/test_strobe.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test_strobe.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_test4
+
+Top level modules:
+	tb_test4
+
+} {} {}} D:/FPGA/modelsim/test_monitor.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test_monitor.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test_monitor
+
+Top level modules:
+	test_monitor
+
+} {} {}} D:/FPGA/modelsim/test_always.v {1 {vlog -work work -vopt -stats=none {D:\FPGA\modelsim\test_always.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test_always
+
+Top level modules:
+	test_always
+
+} {} {}}
